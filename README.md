@@ -198,7 +198,9 @@ Les tables incluent :
 ## **Contact**  
 Pour toute question ou collaboration :  
 - **Email** : najmaelboutaheri@gmail.com  
-- **LinkedIn** : [Lien vers le profil](https://www.linkedin.com/in/najma-el-boutaheri-8185a1267/)  
+- **LinkedIn** : [Lien vers le profil](https://www.linkedin.com/in/najma-el-boutaheri-8185a1267/)
+- Bachiri jawad.
+- Boukayoua Loubna
 ---
 
 ## **Licence**  
