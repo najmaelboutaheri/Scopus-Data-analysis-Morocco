@@ -39,7 +39,7 @@ L'architecture du projet suit plusieurs étapes :
 │
 ├── 📂 Documents
 │ ├── Ensah-BPMN.svg # Diagramme BPMN de processus
-│ ├── Etat-D'avancement-Rapport.pdf # Rapport d'état d'avancement
+│ ├── Etat-D'avancement-Rapport.pdf # Rapport d'état d avancement
 │ ├── Presentation-scopus-powerbi.pdf # Présentation Power BI Scopus
 │ ├── Presentation_de_la_digitalisation.pdf # Présentation digitalisation
 │ ├── Scopus-Dashboard.pbix # Tableau de bord Power BI
@@ -87,7 +87,7 @@ Le dataset extrait contient :
  ![Capture d'écran 2024-12-18 092301](https://github.com/user-attachments/assets/f62275e5-bbe0-472c-a11e-6cf11f770c9d)
 
 1. **La compréhension des données** :  
-   - Vérfication des doublons et des valeurs manquantes.
+   Vérfication des doublons et des valeurs manquantes.
      
  ![Capture d'écran 2024-12-18 095509](https://github.com/user-attachments/assets/1356f7c0-7ca1-482d-9033-096c5e48d002)
  
@@ -100,6 +100,7 @@ Le dataset extrait contient :
  ![Capture d'écran 2024-12-17 120658](https://github.com/user-attachments/assets/b89d1152-ef74-452e-8160-c523cf7b024e)
 
 4. **Modélisation:**
+   
  ![Capture d'écran 2024-12-17 081113](https://github.com/user-attachments/assets/f8eedae2-024a-4f6a-a7da-7e6cf3c3ae7e)
 
  Nous avons modeliser les données en suivant le modéle shema étoile pour faciliter l'accée par les requètes SQL et garantir une bonne pérformance.
