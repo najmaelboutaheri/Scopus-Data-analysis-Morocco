@@ -195,16 +195,20 @@ Les tables incluent :
 
 ---
 
+## **Colaborateurs**  
+- Bachiri Jawad
+- Boukayoua Loubna*
+- El Bouthaeri Najma
 ## **Contact**  
 Pour toute question ou collaboration :  
 - **Email** : najmaelboutaheri@gmail.com  
 - **LinkedIn** : [Lien vers le profil](https://www.linkedin.com/in/najma-el-boutaheri-8185a1267/)
-- Bachiri jawad.
-- Boukayoua Loubna
+
 ---
 
 ## **Licence**  
 Projet sous licence **MIT**.  
+
 ---
 
 
