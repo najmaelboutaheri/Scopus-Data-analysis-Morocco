@@ -197,7 +197,7 @@ Les tables incluent :
 
 ## **Colaborateurs**  
 - Bachiri Jawad
-- Boukayoua Loubna*
+- Boukayoua Loubna
 - El Bouthaeri Najma
 ## **Contact**  
 Pour toute question ou collaboration :  
