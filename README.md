@@ -144,8 +144,14 @@ Le dataset extrait contient :
 
 Les tableaux de bord **Power BI** présentent :  
 
-- **Statistiques générales** des publications.  
-- **Analyse géographique** des collaborations internationales.  
+- **Statistiques générales** des publications.
+  
+  <img width="608" alt="image" src="https://github.com/user-attachments/assets/369470fa-18af-45b6-86ee-885a1df57a63" />
+
+- **Analyse géographique** des collaborations internationales.
+  
+  <img width="601" alt="image" src="https://github.com/user-attachments/assets/66602e8c-5884-4265-b21a-05e83a221015" />
+
 - **Tendances des domaines de recherche** par université.  
 - **Comparaison des performances** entre universités marocaines et étrangères.
   
