@@ -1,4 +1,4 @@
-# Analyse des Données Scopus - Performance Académique des Universités Marocaines
+# Analyse des Données SCOPUS - Performance Académique des Universités Marocaines
 
 ## **Description du Projet**
 
